@@ -1,0 +1,50 @@
+.hero-item h2 {
+  font-size: 4.8rem;
+}
+
+.download-btn{
+  display: block;
+  width: 500px;
+  height: 120px;
+  background-size: 100%;
+  margin: auto;
+  background-repeat: no-repeat;
+  background-image: url('../img/mygame/btn_download.png');
+}
+
+.download-btn:hover{
+  background-image: url('../img/mygame/btn_download_hover.png');
+}
+
+
+.box-system-requirement{
+  width: 900px;
+  min-height : 600px;
+  background-size: 100%;
+  background-image: url('../img/mygame/Box_SystemRequirement.png');
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  padding-top: 170px;
+  padding-left: 90px;
+  padding-right: 70px;
+}
+
+.box-sr-content{
+
+}
+
+.box-system-requirement table{
+  background: #1a1a1a;
+  color: white;
+}
+
+
+.box-system-requirement table tr{
+  margin: 0;
+  padding: 0;
+}
+
+.box-system-requirement table tr td{
+  padding: 1rem;
+  border: 1px solid black;
+}
