@@ -884,10 +884,10 @@ ol {
 	height: 100%;
 	left: -22px;
 	top: 0;
-	border-left: 3px solid #de46d6;
+	border-left: 3px solid #a50000;
 	background: #fff;
-	-webkit-box-shadow: 0 0 9px 3px rgba(226, 30, 228, 0.5);
-	box-shadow: 0 0 9px 3px rgba(226, 30, 228, 0.5);
+	-webkit-box-shadow: 0 0 9px 3px rgba(255, 0, 10, 0.5);
+	box-shadow: 0 0 9px 3px rgba(255, 0, 10, 0.5);
 }
 
 /* ----------------
@@ -992,17 +992,17 @@ ol {
 
 .footer-section {
 	text-align: center;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#aa2222 +0,221616+100 */
-	background: #aa2222 ;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#311414+0,221616+100 */
+	background: #311414;
 	/* Old browsers */
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(left, #aa2222  0%, #221616100%);
+	background: -webkit-linear-gradient(left, #311414 0%, #221616100%);
 	/* Chrome10-25,Safari5.1-6 */
-	background: -webkit-gradient(linear, left top, right top, from(#aa2222 ), to(#221616));
-	background: -o-linear-gradient(left, #aa2222  0%, #221616100%);
-	background: linear-gradient(to right, #aa2222  0%, #221616100%);
+	background: -webkit-gradient(linear, left top, right top, from(#311414), to(#221616));
+	background: -o-linear-gradient(left, #311414 0%, #221616100%);
+	background: linear-gradient(to right, #311414 0%, #221616100%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aa2222 ', endColorstr='#221616', GradientType=1);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#311414', endColorstr='#221616', GradientType=1);
 	/* IE6-9 */
 }
 

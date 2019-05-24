@@ -48,3 +48,33 @@
   padding: 1rem;
   border: 1px solid black;
 }
+
+.copyright-section{
+	border-top: 4px solid #964040;
+	padding: 2rem;
+	box-sizing: border-box;
+	background: #232323;
+}
+.copyright-section h2{
+	border-bottom: 1px solid #FFFFFF;
+	padding-bottom: 1rem;
+}
+
+.copyright-section h3{
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+
+.copyright-section h2, .copyright-section h3, .copyright-section p, .copyright-section li, .copyright-section a{
+	color: #FFFFFF;
+}
+
+.copyright-section a:hover{
+	color: #964040;
+}
+
+
+.copyright-section p{
+	padding-top: 0.5rem;
+	font-size: 1rem;
+}
